@@ -1,4 +1,4 @@
-#Ram based database system
-##Inspired by redis
+Ram based database system
+Inspired by redis
 
 :P
